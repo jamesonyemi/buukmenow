@@ -178,8 +178,8 @@
             <!-- The button to open modal -->
         </div>
 
+        @livewireScripts
         @vite('resources/js/app.js')
-            @livewireScripts
     </body>
 
     </html>
